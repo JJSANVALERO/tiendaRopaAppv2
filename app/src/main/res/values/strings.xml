@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppRopa</string>
+    <string name="no">no</string>
+    <string name="are_you_sure_message">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="return_message">Return</string>
+    <string name="details">Details</string>
+    <string name="delete">Delete</string>
+    <string name="articulo_detail">Article detail</string>
+    <string name="modify">Modify</string>
+    <string name="view_articulos">View Articles</string>
+    <string name="view_settings_bar">View Settings</string>
+    <string name="my_profile_mssg">View profile</string>
+    <string name="AddItem">Add Item</string>
+    <string name="remove_ropa_message">Delete article</string>
+    <string name="save_message">Save</string>
+    <string name="nombre">Name</string>
+    <string name="code">Code</string>
+    <string name="fecha">Fecha de alta</string>
+    <string name="precio">Precio</string>
+    <string name="stock">Stock</string>
+    <string name="register_articulos">Register articles</string>
+</resources>
